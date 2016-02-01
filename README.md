@@ -1,4 +1,4 @@
-# 파이썬 라이브러리를 활용한 데이터 분석 스터디
+﻿# 파이썬 라이브러리를 활용한 데이터 분석 스터디
 
 ![](http://image.hanbit.co.kr/cover/_b_2047.gif)
 
@@ -39,3 +39,5 @@ ms 에서 무료로 서비스 하고 있습니다.
 2. [이 책으로 스터디한 다른 그룹 자료](https://github.com/re4lfl0w/ipython/tree/master/books/python_data_analysis)
 
 3. [책 원본 소스](https://github.com/pydata/pydata-book)
+
+4. [마크다운 테이블 작성 페이지](http://www.tablesgenerator.com/markdown_tables) 
